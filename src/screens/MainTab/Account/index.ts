@@ -1,0 +1,13 @@
+export {default as Account} from './Account';
+export * from './BookAddress';
+export * from './ChangePassword';
+export * from './Contact';
+export * from './InfoAccount';
+export * from './Policy';
+export * from './RequestDelete';
+export * from './Term';
+export * from './HistoryOrders';
+export * from './Feedback';
+export * from './OrderPart';
+export * from './component';
+export * from './DetailAddress';
